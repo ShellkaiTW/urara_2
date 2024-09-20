@@ -1,39 +1,39 @@
 {
-  "background_color": "#3D4451",
-  "description": "Powered by SvelteKit/Urara",
+  "name": "Shellkai's Blog",
+  "short_name": "Shellkai's Blog",
+  "lang": "zh-TW",
+  "description": "Copyright © ShellkaiTW 2024 - All right reserved\tPowered by SvelteKit/Urara",
+  "id": "https://localhost:5173/",
+  "start_url": "/",
+  "scope": "/",
   "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#3D4451",
+  "theme_color": "#3D4451",
   "icons": [
     {
+      "src": "https://localhost:5173/assets/any@192.png",
       "sizes": "192x192",
-      "src": "https://urara-demo.netlify.app/assets/any@192.png",
       "type": "image/png",
       "purpose": "any"
     },
     {
+      "src": "https://localhost:5173/assets/any@512.png",
       "sizes": "512x512",
-      "src": "https://urara-demo.netlify.app/assets/any@512.png",
       "type": "image/png",
       "purpose": "any"
     },
     {
+      "src": "https://localhost:5173/assets/maskable@192.png",
       "sizes": "192x192",
-      "src": "https://urara-demo.netlify.app/assets/maskable@192.png",
       "type": "image/png",
       "purpose": "maskable"
     },
     {
+      "src": "https://localhost:5173/assets/maskable@512.png",
       "sizes": "512x512",
-      "src": "https://urara-demo.netlify.app/assets/maskable@512.png",
       "type": "image/png",
       "purpose": "maskable"
     }
-  ],
-  "id": "https://urara-demo.netlify.app/",
-  "lang": "en-US",
-  "name": "Urara",
-  "orientation": "portrait",
-  "scope": "/",
-  "short_name": "Urara",
-  "start_url": "/",
-  "theme_color": "#3D4451"
+  ]
 }

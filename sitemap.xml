@@ -7,21 +7,41 @@
     xmlns:image="https://www.google.com/schemas/sitemap-image/1.1"
     xmlns:video="https://www.google.com/schemas/sitemap-video/1.1">
     <url>
-      <loc>https://urara-demo.netlify.app</loc>
+      <loc>https://localhost:5173</loc>
     </url>
     
         <url>
-            <loc>https://urara-demo.netlify.app/hello-world/elements</loc>
-            <lastmod>2024-09-12T11:24:26.624Z</lastmod>
+            <loc>https://localhost:5173/certificate-ca-server</loc>
+            <lastmod>2024-09-16T00:00:00.000Z</lastmod>
             <priority>0.5</priority>
         </url>
         <url>
-            <loc>https://urara-demo.netlify.app/hello-world/toc-disabled</loc>
-            <lastmod>2024-09-12T11:24:26.624Z</lastmod>
+            <loc>https://localhost:5173/debian</loc>
+            <lastmod>2024-09-16T00:00:00.000Z</lastmod>
             <priority>0.5</priority>
         </url>
         <url>
-            <loc>https://urara-demo.netlify.app/hello-world</loc>
+            <loc>https://localhost:5173/winsrv</loc>
+            <lastmod>2024-09-16T00:00:00.000Z</lastmod>
+            <priority>0.5</priority>
+        </url>
+        <url>
+            <loc>https://localhost:5173/hello-world/about_me</loc>
+            <lastmod>2024-09-14T00:00:00.000Z</lastmod>
+            <priority>0.5</priority>
+        </url>
+        <url>
+            <loc>https://localhost:5173/hello-world/elements</loc>
+            <lastmod>2024-09-20T09:31:47.673Z</lastmod>
+            <priority>0.5</priority>
+        </url>
+        <url>
+            <loc>https://localhost:5173/hello-world/toc-disabled</loc>
+            <lastmod>2024-09-20T09:31:47.674Z</lastmod>
+            <priority>0.5</priority>
+        </url>
+        <url>
+            <loc>https://localhost:5173/hello-world</loc>
             <lastmod>2021-12-12T00:00:00.000Z</lastmod>
             <priority>0.5</priority>
         </url>
